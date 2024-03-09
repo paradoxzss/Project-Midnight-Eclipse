@@ -30,12 +30,6 @@ print("   ▄█    ███   ███    ███ ███    ███ �
 print(" ▄████████▀    ██████████ ████████▀  ████████▀    ███    ███ ████████▀    ██████████ ████████▀    ███   ▀█▀ ")
 print("                                                  ███    ███                                      ▀         ")
 
-# Log-in Program, change info OR comment out.
-User = input("Employee Number: ")
-Password = input("Password: ")
-if User == 7 and Password == 707:
-    print("Welcome PARADOXzss!")
-
 # Pre-Made scripts can be uncommented to make this a specific preset program OR you can make your own script to make the SecurDeck program(s) specifically for you.
 
 # Script one - a simple project viewer
