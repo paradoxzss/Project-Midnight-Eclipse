@@ -1,0 +1,35 @@
+QUANTITY	 	COMPONENT NAME
+1	×	Raspberry Pi 4
+$40.72
+1	×	PiJuice
+$56.78
+1	×	12,000mAh Lithium Ion Battery
+$32.13
+1	×	8.8inch 480x1980 screen
+$100
+1	×	Vortex Core 40% keybaord
+$100
+1	×	USB touchpad
+$20
+1	×	Bi-directional USB switch
+$20
+1	×	Bike handlebar grip
+$10-15
+1	×	U-shaped cabinet handles
+$15
+1	×	Zip ties
+$7-14
+1	×	Box of 2.5mm Raspberry Pi stand-offs
+$10-20
+1	×	Box of M3 screws and matching brass inserts
+$10-20
+2	×	HDMI extention cables
+$15-30
+1	×	MicroSD card extention
+$10-15
+1	×	Ethernet extention port
+$10-15
+4	×	USB extention cables
+$20-50
+2	×	Matte Black PLA Fillament spools
+$50
