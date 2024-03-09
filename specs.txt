@@ -1,0 +1,7 @@
+Main Board - RPI 4 B
+RAM - 8gb
+I/O panel - MicroSD, Ethernet, 2 x USB, and HDMI **POSSIBLE** floppy disk drive (FDD)
+storage - 256 gb
+OS - Arch/Arch-based distro, could also be Fedora or Bedrock, or, really, anyother distro you want as long as it works on the RPI
+Display - 8.8 inch LCD
+Keyboard - Vortex CORE mechanical
