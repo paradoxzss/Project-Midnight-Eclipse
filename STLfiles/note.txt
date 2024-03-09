@@ -1,0 +1,1 @@
+There are 8 STLS. Print at 50-90% infill with ABS or PETG.
